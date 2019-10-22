@@ -3,6 +3,10 @@ package gitExercise2.main;
 public class HelloGit {
 	public static void main (String [] args) {
 		System.out.println("Hello git!!!");
+<<<<<<< HEAD
+		System.out.println("sono nathan gay");
+=======
 		System.out.println("sono nathan");
+>>>>>>> 94216267ebab9c6b089af9a2c2927a431eaf5bfb
 	}
 }
